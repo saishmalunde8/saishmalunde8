@@ -1,0 +1,17 @@
+name: Sign the guestbook
+description: Leave a short message on the profile README
+title: "guestbook signing"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! Whatever you write here shows up on the profile
+        README. This issue closes itself automatically once it's picked up.
+  - type: input
+    id: message
+    attributes:
+      label: Your message
+      placeholder: "Love the pixel art snake!"
+    validations:
+      required: true

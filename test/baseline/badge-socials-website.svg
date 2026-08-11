@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="58"
+     viewBox="0 0 126 58" role="img" aria-label="Website">
+  <style>
+    :root { --page:#FFFFFF;--bg:#F7FAFD;--surface:#FFFFFF;--border:#D7E1F0;--fg:#0F1726;--muted:#5B6B85;--accent:#E8A33D;--accent2:#3B6FD4;--barA:#A9C3E3;--barB:#7E9DC8;--band1:#F4F8FD;--band2:#DFE9F7;--band3:#EDF3FC;--band4:#D2E1F4;--ico:#E8A33D }
+    @media (prefers-color-scheme: dark) { :root { --page:#0D1117;--bg:#0A0F1A;--surface:#16213A;--border:#25334D;--fg:#E8EEF8;--muted:#8496B4;--accent:#F0B455;--accent2:#6E9FEF;--barA:#2B4070;--barB:#1E2E52;--band1:#070C16;--band2:#121D33;--band3:#0A1220;--band4:#19294A;--ico:#E8A33D } }
+    text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif }
+  </style>
+  <rect width="126" height="58" fill="var(--band4)"/>
+  <rect x="6" y="11" width="114" height="36"
+        rx="6" fill="var(--surface)"/>
+  <g transform="translate(53.00,19.00) scale(0.8333)"><path d="M12 1.5C6.2 1.5 1.5 6.2 1.5 12S6.2 22.5 12 22.5 22.5 17.8 22.5 12 17.8 1.5 12 1.5zm7.94 8.25h-3.55a15.9 15.9 0 0 0-1.39-5.64 9.03 9.03 0 0 1 4.94 5.64zM12 3.02c.95 1.27 1.98 3.4 2.36 6.73H9.64c.38-3.33 1.41-5.46 2.36-6.73zM3.5 12c0-.87.12-1.7.34-2.5h3.79a17.6 17.6 0 0 0 0 5H3.84A9 9 0 0 1 3.5 12zm1.56 4.25h3.55c.28 2.15.83 4.02 1.39 5.64a9.03 9.03 0 0 1-4.94-5.64zm0-8.5A9.03 9.03 0 0 1 10 2.11a15.9 15.9 0 0 0-1.39 5.64H5.06zM12 20.98c-.95-1.27-1.98-3.4-2.36-6.73h4.72c-.38 3.33-1.41 5.46-2.36 6.73zm2.55-8.23H9.45a15.9 15.9 0 0 1 0-5h5.1a15.9 15.9 0 0 1 0 5zm.5 7.09c.56-1.62 1.11-3.49 1.39-5.64h3.55a9.03 9.03 0 0 1-4.94 5.64zm1.6-7.14a17.6 17.6 0 0 0 0-5h3.79c.22.8.34 1.63.34 2.5s-.12 1.7-.34 2.5h-3.79z" fill="var(--ico)"/></g>
+</svg>

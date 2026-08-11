@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="880" height="391" viewBox="0 0 880 391"
+     role="img" aria-label="Saish Malunde — GitHub profile">
+  <title>Saish Malunde — GitHub profile</title>
+  <style>
+  :root {
+    --page: #FFFFFF;
+    --bg: #F7FAFD;
+    --surface: #FFFFFF;
+    --border: #D7E1F0;
+    --fg: #0F1726;
+    --muted: #5B6B85;
+    --accent: #E8A33D;
+    --accent2: #3B6FD4;
+    --barA: #A9C3E3;
+    --barB: #7E9DC8;
+    --band1: #F4F8FD;
+    --band2: #DFE9F7;
+    --band3: #EDF3FC;
+    --band4: #D2E1F4;
+    --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+    --font-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0D1117;
+      --bg: #0A0F1A;
+      --surface: #16213A;
+      --border: #25334D;
+      --fg: #E8EEF8;
+      --muted: #8496B4;
+      --accent: #F0B455;
+      --accent2: #6E9FEF;
+      --barA: #2B4070;
+      --barB: #1E2E52;
+      --band1: #070C16;
+      --band2: #121D33;
+      --band3: #0A1220;
+      --band4: #19294A;
+    }
+  }
+
+  text { font-family: var(--font-sans) }
+  .mono { font-family: var(--font-mono) }
+  .serif { font-family: var(--font-serif) }
+
+  </style>
+
+  <rect x="0" y="0" width="880" height="217" fill="var(--band1)"/>
+  <rect x="0" y="217" width="880" height="174" fill="var(--band2)"/>
+  <g transform="translate(0, 0)">
+  <text x="32" y="21" font-size="11" font-weight="700" fill="var(--muted)" text-anchor="start" letter-spacing="2.5">MINDSET CURRENTLY</text>
+  <text x="452" y="21" font-size="11" font-weight="700" fill="var(--muted)" text-anchor="start" letter-spacing="2.5">MENTAL STATE 😉</text>
+  <rect x="32" y="38" width="396" height="168" rx="10" fill="var(--surface)"/>
+  <rect x="452" y="38" width="396" height="168" rx="10" fill="var(--surface)"/>
+  <line x1="52" y1="50" x2="52" y2="194" stroke="var(--accent)" stroke-width="3" opacity="0.5"/>
+  <text x="70" y="68" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">You don&apos;t have ideas because you</text>
+  <text x="70" y="92" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">don&apos;t read. You can&apos;t articulate</text>
+  <text x="70" y="116" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">because you don&apos;t write. You can&apos;t</text>
+  <text x="70" y="140" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">leverage ideas because you don&apos;t</text>
+  <text x="70" y="164" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">build. That&apos;s the formula for a clear</text>
+  <text x="70" y="188" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="start" class="serif">mind.</text>
+  
+  <text x="650" y="99.5" font-size="18" font-weight="400" fill="var(--fg)" text-anchor="middle">I haven&apos;t slept for ten days,</text>
+  <text x="650" y="147.5" font-size="22" font-weight="700" fill="var(--accent)" text-anchor="middle">because that would be too long!</text>
+  </g>
+  <g transform="translate(0, 217)">
+  <text x="440" y="51.5" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">███████╗ █████╗ ██╗███████╗██╗  ██╗    ███╗   ███╗ █████╗ ██╗     ██╗   ██╗███╗   ██╗██████╗ ███████╗</text>
+  <text x="440" y="65" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">██╔════╝██╔══██╗██║██╔════╝██║  ██║    ████╗ ████║██╔══██╗██║     ██║   ██║████╗  ██║██╔══██╗██╔════╝</text>
+  <text x="440" y="78.5" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">███████╗███████║██║███████╗███████║    ██╔████╔██║███████║██║     ██║   ██║██╔██╗ ██║██║  ██║█████╗  </text>
+  <text x="440" y="92" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">╚════██║██╔══██║██║╚════██║██╔══██║    ██║╚██╔╝██║██╔══██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══╝  </text>
+  <text x="440" y="105.5" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">███████║██║  ██║██║███████║██║  ██║    ██║ ╚═╝ ██║██║  ██║███████╗╚██████╔╝██║ ╚████║██████╔╝███████╗</text>
+  <text x="440" y="119" font-size="13.5" font-weight="400" fill="var(--accent)" text-anchor="middle" class="mono" xml:space="preserve">╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝</text>
+  <text x="440" y="154.5" font-size="11" font-weight="400" fill="var(--muted)" text-anchor="middle" letter-spacing="1.5">thanks for scrolling all the way down</text>
+  </g>
+</svg>

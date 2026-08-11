@@ -1,0 +1,20 @@
+{
+  "name": "saishmalunde8-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generator for the saishmalunde8 GitHub profile README",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "preview": "node src/preview.mjs",
+    "mockup": "node src/mockup.mjs",
+    "art": "node src/art.mjs",
+    "snapshot": "node src/snapshot.mjs --record",
+    "test": "node src/snapshot.mjs",
+    "dev": "node src/build.mjs --draft",
+    "clips": "node src/clips.mjs",
+    "spritesheet": "node src/spritesheet.mjs",
+    "icons": "node src/icons.mjs",
+    "albumart": "node src/albumart.mjs",
+    "livedata": "node src/livedata.mjs"
+  }
+}

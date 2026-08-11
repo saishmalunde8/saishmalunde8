@@ -1,0 +1,85 @@
+name: Guestbook signing
+
+# Fires on a new issue OR a label being added, but the `if:` below skips
+# anything that isn't tagged "guestbook" — a random unrelated issue someone
+# opens is left completely alone.
+#
+# `labeled` exists as a recovery path, not just belt-and-suspenders: GitHub
+# Issue Forms only apply a `labels:` entry from the YAML template if that
+# label ALREADY EXISTS in the repo's label list. If it doesn't, the label is
+# silently dropped — no error anywhere, to the submitter or in the Actions
+# log — and an `[opened]`-only trigger then has nothing to catch, because the
+# issue that arrives has no label on it at all. That happened for real here:
+# the "guestbook" label had never been created in this repo, so the first
+# genuine signature came in unlabelled and the workflow correctly skipped it
+# (its `if:` did its job) while the run itself silently did nothing. With
+# `labeled` added, manually adding the label to that stray issue re-fires
+# this workflow and recovers it.
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  sign:
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # A maintained, purpose-built Action for GitHub's "### <label>" issue-
+      # form markdown format, not a hand-rolled regex — see the comment at
+      # the top of src/guestbook-append.mjs for why that choice was made.
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/guestbook.yml
+
+      - name: Append the entry and rebuild
+        env:
+          MESSAGE: ${{ steps.issue-parser.outputs.issueparser_message }}
+          AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          node src/guestbook-append.mjs
+          npm run build
+
+      - name: Commit and push, only if something actually changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/guestbook.json README.md assets/
+          git diff --cached --quiet || git commit -m "Guestbook: signed by @${{ github.event.issue.user.login }}"
+          git push
+
+      - name: Thank the signer
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "Thanks for signing! Your message is on the profile now. 🎉",
+            })
+
+      # Auto-closed so guestbook signings never pile up as an open-issue
+      # graveyard — every one of these issues has already done its job the
+      # moment the entry is appended above.
+      - name: Close the issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed",
+              state_reason: "completed",
+            })

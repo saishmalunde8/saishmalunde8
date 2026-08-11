@@ -1,0 +1,126 @@
+[
+  {
+    "name": "01-starry-castle",
+    "levels": {
+      "full": {
+        "file": "01-starry-castle.full.png",
+        "gw": 440,
+        "gh": 248,
+        "kb": 52.7
+      },
+      "l2": {
+        "file": "01-starry-castle.l2.png",
+        "gw": 147,
+        "gh": 83,
+        "kb": 7.8
+      },
+      "l3": {
+        "file": "01-starry-castle.l3.png",
+        "gw": 63,
+        "gh": 35,
+        "kb": 2.8
+      },
+      "l4": {
+        "file": "01-starry-castle.l4.png",
+        "gw": 29,
+        "gh": 17,
+        "kb": 1.9
+      }
+    },
+    "dispW": 880,
+    "dispH": 496
+  },
+  {
+    "name": "02-great-wave",
+    "levels": {
+      "full": {
+        "file": "02-great-wave.full.png",
+        "gw": 440,
+        "gh": 248,
+        "kb": 45
+      },
+      "l2": {
+        "file": "02-great-wave.l2.png",
+        "gw": 147,
+        "gh": 83,
+        "kb": 7
+      },
+      "l3": {
+        "file": "02-great-wave.l3.png",
+        "gw": 63,
+        "gh": 35,
+        "kb": 2.5
+      },
+      "l4": {
+        "file": "02-great-wave.l4.png",
+        "gw": 29,
+        "gh": 17,
+        "kb": 1.6
+      }
+    },
+    "dispW": 880,
+    "dispH": 496
+  },
+  {
+    "name": "03-wave-sunset",
+    "levels": {
+      "full": {
+        "file": "03-wave-sunset.full.png",
+        "gw": 440,
+        "gh": 248,
+        "kb": 39.8
+      },
+      "l2": {
+        "file": "03-wave-sunset.l2.png",
+        "gw": 147,
+        "gh": 83,
+        "kb": 7
+      },
+      "l3": {
+        "file": "03-wave-sunset.l3.png",
+        "gw": 63,
+        "gh": 35,
+        "kb": 2.7
+      },
+      "l4": {
+        "file": "03-wave-sunset.l4.png",
+        "gw": 29,
+        "gh": 17,
+        "kb": 1.9
+      }
+    },
+    "dispW": 880,
+    "dispH": 496
+  },
+  {
+    "name": "04-starry-field",
+    "levels": {
+      "full": {
+        "file": "04-starry-field.full.png",
+        "gw": 440,
+        "gh": 248,
+        "kb": 54.5
+      },
+      "l2": {
+        "file": "04-starry-field.l2.png",
+        "gw": 147,
+        "gh": 83,
+        "kb": 7.7
+      },
+      "l3": {
+        "file": "04-starry-field.l3.png",
+        "gw": 63,
+        "gh": 35,
+        "kb": 2.6
+      },
+      "l4": {
+        "file": "04-starry-field.l4.png",
+        "gw": 29,
+        "gh": 17,
+        "kb": 1.6
+      }
+    },
+    "dispW": 880,
+    "dispH": 496
+  }
+]

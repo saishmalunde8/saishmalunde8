@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="58"
+     viewBox="0 0 126 58" role="img" aria-label="X">
+  <style>
+    :root { --page:#FFFFFF;--bg:#F7FAFD;--surface:#FFFFFF;--border:#D7E1F0;--fg:#0F1726;--muted:#5B6B85;--accent:#E8A33D;--accent2:#3B6FD4;--barA:#A9C3E3;--barB:#7E9DC8;--band1:#F4F8FD;--band2:#DFE9F7;--band3:#EDF3FC;--band4:#D2E1F4;--ico:#000000 }
+    @media (prefers-color-scheme: dark) { :root { --page:#0D1117;--bg:#0A0F1A;--surface:#16213A;--border:#25334D;--fg:#E8EEF8;--muted:#8496B4;--accent:#F0B455;--accent2:#6E9FEF;--barA:#2B4070;--barB:#1E2E52;--band1:#070C16;--band2:#121D33;--band3:#0A1220;--band4:#19294A;--ico:#E8EEF8 } }
+    text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif }
+  </style>
+  <rect width="126" height="58" fill="var(--band4)"/>
+  <rect x="6" y="11" width="114" height="36"
+        rx="6" fill="var(--surface)"/>
+  <g transform="translate(53.00,19.00) scale(0.8333)"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill="var(--ico)"/></g>
+</svg>

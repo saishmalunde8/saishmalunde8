@@ -1,0 +1,1165 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="880" height="367" viewBox="0 0 880 367"
+     role="img" aria-label="Saish Malunde — GitHub profile">
+  <title>Saish Malunde — GitHub profile</title>
+  <style>
+  :root {
+    --page: #FFFFFF;
+    --bg: #F7FAFD;
+    --surface: #FFFFFF;
+    --border: #D7E1F0;
+    --fg: #0F1726;
+    --muted: #5B6B85;
+    --accent: #E8A33D;
+    --accent2: #3B6FD4;
+    --barA: #A9C3E3;
+    --barB: #7E9DC8;
+    --band1: #F4F8FD;
+    --band2: #DFE9F7;
+    --band3: #EDF3FC;
+    --band4: #D2E1F4;
+    --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+    --font-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0D1117;
+      --bg: #0A0F1A;
+      --surface: #16213A;
+      --border: #25334D;
+      --fg: #E8EEF8;
+      --muted: #8496B4;
+      --accent: #F0B455;
+      --accent2: #6E9FEF;
+      --barA: #2B4070;
+      --barB: #1E2E52;
+      --band1: #070C16;
+      --band2: #121D33;
+      --band3: #0A1220;
+      --band4: #19294A;
+    }
+  }
+
+  text { font-family: var(--font-sans) }
+  .mono { font-family: var(--font-mono) }
+  .serif { font-family: var(--font-serif) }
+
+  .cur { font-family: var(--font-mono); font-weight: 400 }
+  .tw { opacity: 0; animation: twcycle 12060ms linear infinite }
+  .tw1 { opacity: 1 }            /* static fallback if animation is ignored */
+  @keyframes twcycle {
+    0%                  { opacity: 1 }
+    0.3728% { opacity: 1 }
+    0.3731% { opacity: 0 }
+    100%                { opacity: 0 }
+  }
+  @media (prefers-reduced-motion: reduce) { .tw { animation: none } }
+  </style>
+
+  <rect x="0" y="0" width="880" height="367" fill="var(--band1)"/>
+  <g transform="translate(0, 0)">
+  <text x="32" y="21" font-size="11" font-weight="700" fill="var(--muted)" text-anchor="start" letter-spacing="2.5">ABOUT</text>
+  <rect x="619" y="7" width="104" height="19" rx="9.5" fill="var(--surface)" stroke="var(--border)" stroke-width="1.5"/><circle cx="632" cy="16.5" r="3.5" fill="var(--accent)"/><text x="640" y="20" font-size="10" font-weight="600" fill="var(--muted)" text-anchor="start">open to work</text>
+  <rect x="731" y="7" width="117" height="19" rx="9.5" fill="var(--surface)" stroke="var(--border)" stroke-width="1.5"/><circle cx="744" cy="16.5" r="3.5" fill="var(--accent)"/><text x="752" y="20" font-size="10" font-weight="600" fill="var(--muted)" text-anchor="start">open to collab</text>
+  <rect x="32" y="38" width="594" height="318" rx="0" fill="var(--surface)"/>
+  <text x="48" y="60" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--accent2)">const </tspan><tspan fill="var(--fg)">saish_malunde </tspan><tspan fill="var(--muted)">= {</tspan></text>
+  <text x="48" y="74" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">pronouns: </tspan><tspan fill="var(--accent)">&apos;he / him&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="88" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">location: </tspan><tspan fill="var(--accent)">&apos;Pune, Maharashtra, India&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="102" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">timezone: </tspan><tspan fill="var(--accent)">&apos;IST — UTC+5:30&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="116" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">reading: </tspan><tspan fill="var(--accent)">&apos;Psycho-Cybernetics&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="130" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">watching: </tspan><tspan fill="var(--accent)">&apos;Better Call Saul&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="158" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">principles: </tspan><tspan fill="var(--muted)">[</tspan></text>
+  <text x="48" y="172" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;The build should fail loudly for exactly the thing you&apos;d otherwise ship silently.&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="186" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;Reproduce, minimise, hypothesise — in that order, every time.&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="200" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;Fix the cause, not the ceiling — raising the limit is how debt collects interest.&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="214" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--muted)">],</tspan></text>
+  <text x="48" y="242" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--accent2)">currentlyLearning: </tspan><tspan fill="var(--muted)">[</tspan></text>
+  <text x="48" y="256" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;MCP servers: typed access to my own tools&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="270" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;Prototyping relentlessly — five throwaway spikes a week&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="284" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;Agentic coding — Claude as a build system, not autocomplete&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="298" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">    </tspan><tspan fill="var(--accent)">&apos;Context engineering: what to load, summarise, and drop&apos;</tspan><tspan fill="var(--muted)">,</tspan></text>
+  <text x="48" y="312" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">  </tspan><tspan fill="var(--muted)">],</tspan></text>
+  <text x="48" y="326" font-size="10.30" class="mono" xml:space="preserve"><tspan fill="var(--muted)">}</tspan></text>
+  <rect x="650" y="38" width="198" height="318" rx="0" fill="var(--surface)"/>
+  <rect x="650" y="38" width="198" height="18" rx="0" fill="var(--barA)"/>
+  <rect x="650" y="56" width="198" height="18" rx="0" fill="var(--accent)"/>
+  <rect x="650" y="74" width="198" height="18" rx="0" fill="var(--barB)"/>
+  <rect x="650" y="302" width="198" height="18" rx="0" fill="var(--barB)"/>
+  <rect x="650" y="320" width="198" height="18" rx="0" fill="var(--accent)"/>
+  <rect x="650" y="338" width="198" height="18" rx="0" fill="var(--barA)"/>
+  
+  <g class="tw tw1" style="animation-delay: -0ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -45ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">He<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -90ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hel<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -135ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hell<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -180ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -225ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -270ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -315ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -360ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -405ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -450ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -495ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -540ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -585ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -630ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -675ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -720ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -765ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -810ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hello</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -855ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hell<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -900ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hel<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -945ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">He<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -990ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ENGLISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -1035ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">न<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1080ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नम<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1125ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1170ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1215ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1260ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1305ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1350ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1395ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1440ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1485ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1530ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1575ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1620ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1665ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1710ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1755ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्ते</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1800ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नम<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1845ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">न<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">HINDI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1890ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">न<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1935ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नम<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -1980ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्का<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2025ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2070ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2115ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2160ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2205ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2250ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2295ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2340ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2385ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2430ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2475ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2520ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2565ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2610ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2655ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्कार</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2700ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नमस्का<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2745ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">नम<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2790ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">न<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">MARATHI</text>
+  </g>
+  <g class="tw" style="animation-delay: -2835ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -2880ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ho<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -2925ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hol<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -2970ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3015ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3060ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3105ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3150ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3195ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3240ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3285ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3330ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3375ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3420ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3465ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3510ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3555ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3600ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hola</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3645ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hol<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3690ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ho<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3735ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">SPANISH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3780ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">B<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3825ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3870ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bon<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3915ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonj<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -3960ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4005ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjou<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4050ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4095ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4140ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4185ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4230ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4275ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4320ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4365ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4410ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4455ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4500ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4545ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4590ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4635ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4680ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjour</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4725ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjou<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4770ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonjo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4815ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bonj<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4860ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bon<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4905ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Bo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4950ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">B<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">FRENCH</text>
+  </g>
+  <g class="tw" style="animation-delay: -4995ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こ<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5040ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こん<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5085ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こんに<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5130ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにち<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5175ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5220ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5265ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5310ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5355ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5400ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5445ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5490ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5535ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5580ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5625ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5670ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5715ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5760ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5805ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにちは</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5850ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こんにち<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5895ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こんに<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5940ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こん<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -5985ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">こ<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">JAPANESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -6030ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6075ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6120ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6165ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6210ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6255ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6300ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6345ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6390ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6435ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6480ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6525ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6570ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6615ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6660ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6705ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6750ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6795ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6840ms">
+    <text x="749" y="199" font-size="30" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세요</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6885ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하세<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6930ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕하<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -6975ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안녕<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -7020ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">안<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">KOREAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -7065ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">O<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7110ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ol<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7155ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7200ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7245ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7290ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7335ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7380ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7425ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7470ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7515ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7560ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7605ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7650ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7695ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7740ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7785ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Olá</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7830ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ol<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7875ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">O<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">PORTUGUESE</text>
+  </g>
+  <g class="tw" style="animation-delay: -7920ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">C<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -7965ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ci<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8010ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Cia<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8055ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8100ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8145ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8190ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8235ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8280ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8325ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8370ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8415ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8460ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8505ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8550ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8595ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8640ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8685ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ciao</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8730ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Cia<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8775ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ci<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8820ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">C<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ITALIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8865ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8910ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ha<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -8955ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hal<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9000ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hall<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9045ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9090ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9135ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9180ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9225ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9270ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9315ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9360ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9405ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9450ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9495ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9540ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9585ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9630ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9675ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hallo</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9720ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hall<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9765ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Hal<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9810ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Ha<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9855ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">H<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">GERMAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9900ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">П<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9945ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Пр<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -9990ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">При<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10035ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Прив<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10080ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Приве<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10125ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10170ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10215ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10260ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10305ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10350ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10395ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10440ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10485ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10530ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10575ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10620ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10665ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10710ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10755ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Привет</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10800ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Приве<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10845ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Прив<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10890ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">При<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10935ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">Пр<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -10980ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">П<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">RUSSIAN</text>
+  </g>
+  <g class="tw" style="animation-delay: -11025ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">م<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11070ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مر<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11115ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرح<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11160ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحب<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11205ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11250ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11295ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11340ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11385ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11430ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11475ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11520ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11565ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11610ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11655ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11700ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11745ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11790ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11835ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحبا</text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11880ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرحب<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11925ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مرح<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -11970ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">مر<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  <g class="tw" style="animation-delay: -12015ms">
+    <text x="749" y="199" font-size="38" font-weight="700" fill="var(--fg)" text-anchor="middle">م<tspan class="cur">▏</tspan></text>
+    <text x="749" y="227" font-size="9" font-weight="600" fill="var(--muted)" text-anchor="middle" letter-spacing="2">ARABIC</text>
+  </g>
+  </g>
+</svg>

@@ -1,0 +1,179 @@
+{
+  "//": "The ONLY file you edit by hand. Everything in README.md is generated from this.",
+  "username": "saishmalunde8",
+  "name": "Saish Malunde",
+  "//links": "A '#' url is a DELIBERATE dead link — the badge shows, clicking does nothing. Chosen over a fake address so nobody lands on a 404. Swap in the real URL when you have one.",
+  "hello": {
+    "typewriter": {
+      "frameMs": 45,
+      "holdFrames": 14
+    },
+    "greetings": [
+      { "text": "Hello", "lang": "English" },
+      { "text": "नमस्ते", "lang": "Hindi" },
+      { "text": "नमस्कार", "lang": "Marathi" },
+      { "text": "Hola", "lang": "Spanish" },
+      { "text": "Bonjour", "lang": "French" },
+      { "text": "こんにちは", "lang": "Japanese" },
+      { "text": "안녕하세요", "lang": "Korean" },
+      { "text": "Olá", "lang": "Portuguese" },
+      { "text": "Ciao", "lang": "Italian" },
+      { "text": "Hallo", "lang": "German" },
+      { "text": "Привет", "lang": "Russian" },
+      { "text": "مرحبا", "lang": "Arabic" }
+    ]
+  },
+  "status": ["open to work", "open to collab"],
+  "about": {
+    "varName": "saish_malunde",
+    "fields": {
+      "pronouns": "he / him",
+      "location": "Pune, Maharashtra, India",
+      "timezone": "IST — UTC+5:30",
+      "reading": "Psycho-Cybernetics",
+      "watching": "Better Call Saul"
+    }
+  },
+  "principles": {
+    "//": "3–5 short opinions you actually hold. One sentence each. Renders INSIDE the about object (src/sections/intro.mjs), not as a separate section.",
+    "items": [
+      "The build should fail loudly for exactly the thing you'd otherwise ship silently.",
+      "Reproduce, minimise, hypothesise — in that order, every time.",
+      "Fix the cause, not the ceiling — raising the limit is how debt collects interest."
+    ]
+  },
+  "learning": {
+    "//": "items: { label }. Renders as `currentlyLearning` inside the about object. readingInTech and brokenAndFixed were both here and are deliberately removed for now — see the project memory on this decision before re-adding either.",
+    "items": [
+      { "label": "MCP servers: typed access to my own tools" },
+      { "label": "Prototyping relentlessly — five throwaway spikes a week" },
+      { "label": "Agentic coding — Claude as a build system, not autocomplete" },
+      { "label": "Context engineering: what to load, summarise, and drop" }
+    ]
+  },
+  "//skills": "icon = simple-icons slug, verified by `npm run icons` (a wrong slug fails loudly there rather than silently blanking a tile). abbr is the fallback shown on phones.",
+  "skills": [
+    { "abbr": "C+", "icon": "cplusplus" },
+    { "abbr": "SW", "icon": "swift" },
+    { "abbr": "TS", "icon": "typescript" },
+    { "abbr": "JS", "icon": "javascript" },
+    { "abbr": "PY", "icon": "python" },
+    { "abbr": "RS", "icon": "rust" },
+    { "abbr": "GO", "icon": "go" },
+    { "abbr": "RE", "icon": "react" },
+    { "abbr": "NX", "icon": "nextdotjs" },
+    { "abbr": "NO", "icon": "nodedotjs" },
+    { "abbr": "PG", "icon": "postgresql" },
+    { "abbr": "DK", "icon": "docker" },
+    { "abbr": "GT", "icon": "git" },
+    { "abbr": "FG", "icon": "figma" },
+    { "abbr": "XC", "icon": "xcode" },
+    { "abbr": "VS", "icon": "visualstudiocode" },
+    { "abbr": "LX", "icon": "linux" },
+    { "abbr": "VC", "icon": "vercel" },
+    { "abbr": "TW", "icon": "tailwindcss" },
+    { "abbr": "SB", "icon": "supabase" }
+  ],
+  "//music": "Track lengths are NOT written here on purpose — `npm run albumart` reads the real duration from the same iTunes lookup that fetches the cover, so the number can't drift from reality or be guessed wrong.",
+  "music": {
+    "tracks": [
+      { "title": "Dirty Diana", "artist": "Michael Jackson" },
+      { "title": "Ishq", "artist": "Donn Bhat" },
+      { "title": "Dirty Work", "artist": "Steely Dan" },
+      { "title": "Neon", "artist": "John Mayer" },
+      { "title": "Gravity", "artist": "John Mayer" },
+      { "title": "Step Into My Life", "artist": "Powfu" }
+    ]
+  },
+  "//starred": "Deliberately empty. The section shows an honest empty state and switches to your real starred repos automatically once you've starred 2+ — no code change needed.",
+  "starred": {
+    "repos": []
+  },
+  "//guestbook": "signUrl points at the live profile repo. The 'guestbook' label must exist there or signatures silently drop — see .github/workflows/guestbook.yml.",
+  "guestbook": {
+    "entries": [],
+    "signUrl": "https://github.com/saishmalunde8/saishmalunde8/issues/new?template=guestbook.yml"
+  },
+  "quote": {
+    "kicker": "mindset currently",
+    "text": "You don't have ideas because you don't read. You can't articulate because you don't write. You can't leverage ideas because you don't build. That's the formula for a clear mind.",
+    "author": ""
+  },
+  "joke": {
+    "kicker": "mental state 😉",
+    "setup": "I haven't slept for ten days,",
+    "punchline": "because that would be too long!"
+  },
+  "stats": {
+    "counters": [
+      { "value": "9", "label": "PUBLIC REPOS" },
+      { "value": "1", "label": "STARS EARNED" },
+      { "value": "0", "label": "FORKS EARNED" },
+      { "value": "7 yrs", "label": "ON GITHUB" }
+    ]
+  },
+  "socials": [
+    { "label": "LinkedIn", "icon": "linkedin", "url": "#" },
+    { "label": "X", "icon": "x", "url": "https://x.com/MaluSaDev" },
+    { "label": "Instagram", "icon": "instagram", "url": "https://www.instagram.com/saishmalunde/" },
+    { "label": "YouTube", "icon": "youtube", "url": "#" },
+    { "label": "Email", "icon": "email", "url": "mailto:saishmalunde8@gmail.com" },
+    { "label": "Website", "icon": "website", "url": "#" }
+  ],
+  "//links2": "Second badge row. Same mechanics as socials — see src/sections/badges.mjs. `filled` inverts the pill so one badge can carry emphasis.",
+  "links": [
+    { "label": "Book a call", "icon": "calendly", "url": "#" },
+    { "label": "Toastmasters", "icon": "toastmasters", "url": "https://www.toastmasters.org/" },
+    { "label": "Résumé", "icon": "resume", "url": "#" },
+    { "label": "Sponsor", "icon": "githubsponsors", "url": "https://github.com/sponsors/saishmalunde8" },
+    { "label": "Coffee", "icon": "buymeacoffee", "url": "#", "filled": true }
+  ],
+  "sections": {
+    "hero": true,
+    "intro": true,
+    "snake": true,
+    "starred": true,
+    "skills": true,
+    "stats": true,
+    "music": true,
+    "currently": true,
+    "guestbook": true,
+    "quote": true,
+    "signature": true
+  },
+  "hero": {
+    "msPerFrame": 2600,
+    "deresolveMs": 420
+  },
+  "//currently": "flip mirrors a clip horizontally at render time — no re-slicing, reversible from here.",
+  "currently": {
+    "items": [
+      { "label": "guitar", "clip": "guitar" },
+      { "label": "pull-ups", "clip": "pull-ups" },
+      { "label": "boxing", "clip": "boxing", "flip": true }
+    ],
+    "frameMs": 90
+  },
+  "signature": {
+    "//": "ANSI-Shadow block lettering. Every line must be the SAME number of characters or the rows won't align — they're centred independently.",
+    "art": [
+      "███████╗ █████╗ ██╗███████╗██╗  ██╗    ███╗   ███╗ █████╗ ██╗     ██╗   ██╗███╗   ██╗██████╗ ███████╗",
+      "██╔════╝██╔══██╗██║██╔════╝██║  ██║    ████╗ ████║██╔══██╗██║     ██║   ██║████╗  ██║██╔══██╗██╔════╝",
+      "███████╗███████║██║███████╗███████║    ██╔████╔██║███████║██║     ██║   ██║██╔██╗ ██║██║  ██║█████╗  ",
+      "╚════██║██╔══██║██║╚════██║██╔══██║    ██║╚██╔╝██║██╔══██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══╝  ",
+      "███████║██║  ██║██║███████║██║  ██║    ██║ ╚═╝ ██║██║  ██║███████╗╚██████╔╝██║ ╚████║██████╔╝███████╗",
+      "╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝"
+    ],
+    "tagline": "thanks for scrolling all the way down"
+  },
+  "visitors": {
+    "//": "Third-party badge (komarev). The only free way to count views without a server — see the comment in src/build.mjs for the trade-off.",
+    "enabled": true,
+    "label": "profile views"
+  },
+  "snake": {
+    "cycleMs": 60000,
+    "body": 5,
+    "seed": 20260810
+  }
+}

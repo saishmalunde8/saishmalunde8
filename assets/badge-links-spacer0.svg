@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="58"
+     viewBox="0 0 126 58" role="presentation" aria-hidden="true">
+  <style>
+    :root { --page:#FFFFFF;--bg:#F7FAFD;--surface:#FFFFFF;--border:#D7E1F0;--fg:#0F1726;--muted:#5B6B85;--accent:#E8A33D;--accent2:#3B6FD4;--barA:#A9C3E3;--barB:#7E9DC8;--band1:#F4F8FD;--band2:#DFE9F7;--band3:#EDF3FC;--band4:#D2E1F4 }
+    @media (prefers-color-scheme: dark) { :root { --page:#0D1117;--bg:#0A0F1A;--surface:#16213A;--border:#25334D;--fg:#E8EEF8;--muted:#8496B4;--accent:#F0B455;--accent2:#6E9FEF;--barA:#2B4070;--barB:#1E2E52;--band1:#070C16;--band2:#121D33;--band3:#0A1220;--band4:#19294A } }
+  </style>
+  <rect width="126" height="58" fill="var(--band4)"/>
+</svg>

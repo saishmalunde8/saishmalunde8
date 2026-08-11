@@ -1,0 +1,401 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="880" height="495" viewBox="0 0 880 495"
+     role="img" aria-label="Saish Malunde — GitHub profile">
+  <title>Saish Malunde — GitHub profile</title>
+  <style>
+  :root {
+    --page: #FFFFFF;
+    --bg: #F7FAFD;
+    --surface: #FFFFFF;
+    --border: #D7E1F0;
+    --fg: #0F1726;
+    --muted: #5B6B85;
+    --accent: #E8A33D;
+    --accent2: #3B6FD4;
+    --barA: #A9C3E3;
+    --barB: #7E9DC8;
+    --band1: #F4F8FD;
+    --band2: #DFE9F7;
+    --band3: #EDF3FC;
+    --band4: #D2E1F4;
+    --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+    --font-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0D1117;
+      --bg: #0A0F1A;
+      --surface: #16213A;
+      --border: #25334D;
+      --fg: #E8EEF8;
+      --muted: #8496B4;
+      --accent: #F0B455;
+      --accent2: #6E9FEF;
+      --barA: #2B4070;
+      --barB: #1E2E52;
+      --band1: #070C16;
+      --band2: #121D33;
+      --band3: #0A1220;
+      --band4: #19294A;
+    }
+  }
+
+  text { font-family: var(--font-sans) }
+  .mono { font-family: var(--font-mono) }
+  .serif { font-family: var(--font-serif) }
+
+  .px { image-rendering: pixelated; image-rendering: crisp-edges }
+  .sg { opacity: 0; animation-duration: 10400ms; animation-timing-function: linear;
+        animation-iteration-count: infinite }
+  .s0 { opacity: 1 }             /* static fallback if animation is ignored */
+  .s0 { animation-name: sg0 }
+  .s1 { animation-name: sg1 }
+  .s2 { animation-name: sg2 }
+  .s3 { animation-name: sg3 }
+  .s4 { animation-name: sg4 }
+  .s5 { animation-name: sg5 }
+  .s6 { animation-name: sg6 }
+  .s7 { animation-name: sg7 }
+  .s8 { animation-name: sg8 }
+  .s9 { animation-name: sg9 }
+  .s10 { animation-name: sg10 }
+  .s11 { animation-name: sg11 }
+  .s12 { animation-name: sg12 }
+  .s13 { animation-name: sg13 }
+  .s14 { animation-name: sg14 }
+  .s15 { animation-name: sg15 }
+  .s16 { animation-name: sg16 }
+  .s17 { animation-name: sg17 }
+  .s18 { animation-name: sg18 }
+  .s19 { animation-name: sg19 }
+  .s20 { animation-name: sg20 }
+  .s21 { animation-name: sg21 }
+  .s22 { animation-name: sg22 }
+  .s23 { animation-name: sg23 }
+  .s24 { animation-name: sg24 }
+  .s25 { animation-name: sg25 }
+  .s26 { animation-name: sg26 }
+  .s27 { animation-name: sg27 }
+
+  @keyframes sg0 {
+    0.0000% { opacity: 1 }
+    20.9615% { opacity: 1 }
+    20.9625% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg1 {
+    0.0000% { opacity: 0 }
+    20.9605% { opacity: 0 }
+    20.9615% { opacity: 1 }
+    21.6346% { opacity: 1 }
+    21.6356% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg2 {
+    0.0000% { opacity: 0 }
+    21.6336% { opacity: 0 }
+    21.6346% { opacity: 1 }
+    22.3077% { opacity: 1 }
+    22.3087% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg3 {
+    0.0000% { opacity: 0 }
+    22.3067% { opacity: 0 }
+    22.3077% { opacity: 1 }
+    22.9808% { opacity: 1 }
+    22.9818% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg4 {
+    0.0000% { opacity: 0 }
+    22.9798% { opacity: 0 }
+    22.9808% { opacity: 1 }
+    23.6538% { opacity: 1 }
+    23.6548% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg5 {
+    0.0000% { opacity: 0 }
+    23.6528% { opacity: 0 }
+    23.6538% { opacity: 1 }
+    24.3269% { opacity: 1 }
+    24.3279% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg6 {
+    0.0000% { opacity: 0 }
+    24.3259% { opacity: 0 }
+    24.3269% { opacity: 1 }
+    25.0000% { opacity: 1 }
+    25.0010% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg7 {
+    0.0000% { opacity: 0 }
+    24.9990% { opacity: 0 }
+    25.0000% { opacity: 1 }
+    45.9615% { opacity: 1 }
+    45.9625% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg8 {
+    0.0000% { opacity: 0 }
+    45.9605% { opacity: 0 }
+    45.9615% { opacity: 1 }
+    46.6346% { opacity: 1 }
+    46.6356% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg9 {
+    0.0000% { opacity: 0 }
+    46.6336% { opacity: 0 }
+    46.6346% { opacity: 1 }
+    47.3077% { opacity: 1 }
+    47.3087% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg10 {
+    0.0000% { opacity: 0 }
+    47.3067% { opacity: 0 }
+    47.3077% { opacity: 1 }
+    47.9808% { opacity: 1 }
+    47.9818% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg11 {
+    0.0000% { opacity: 0 }
+    47.9798% { opacity: 0 }
+    47.9808% { opacity: 1 }
+    48.6538% { opacity: 1 }
+    48.6548% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg12 {
+    0.0000% { opacity: 0 }
+    48.6528% { opacity: 0 }
+    48.6538% { opacity: 1 }
+    49.3269% { opacity: 1 }
+    49.3279% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg13 {
+    0.0000% { opacity: 0 }
+    49.3259% { opacity: 0 }
+    49.3269% { opacity: 1 }
+    50.0000% { opacity: 1 }
+    50.0010% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg14 {
+    0.0000% { opacity: 0 }
+    49.9990% { opacity: 0 }
+    50.0000% { opacity: 1 }
+    70.9615% { opacity: 1 }
+    70.9625% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg15 {
+    0.0000% { opacity: 0 }
+    70.9605% { opacity: 0 }
+    70.9615% { opacity: 1 }
+    71.6346% { opacity: 1 }
+    71.6356% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg16 {
+    0.0000% { opacity: 0 }
+    71.6336% { opacity: 0 }
+    71.6346% { opacity: 1 }
+    72.3077% { opacity: 1 }
+    72.3087% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg17 {
+    0.0000% { opacity: 0 }
+    72.3067% { opacity: 0 }
+    72.3077% { opacity: 1 }
+    72.9808% { opacity: 1 }
+    72.9818% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg18 {
+    0.0000% { opacity: 0 }
+    72.9798% { opacity: 0 }
+    72.9808% { opacity: 1 }
+    73.6538% { opacity: 1 }
+    73.6548% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg19 {
+    0.0000% { opacity: 0 }
+    73.6528% { opacity: 0 }
+    73.6538% { opacity: 1 }
+    74.3269% { opacity: 1 }
+    74.3279% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg20 {
+    0.0000% { opacity: 0 }
+    74.3259% { opacity: 0 }
+    74.3269% { opacity: 1 }
+    75.0000% { opacity: 1 }
+    75.0010% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg21 {
+    0.0000% { opacity: 0 }
+    74.9990% { opacity: 0 }
+    75.0000% { opacity: 1 }
+    95.9615% { opacity: 1 }
+    95.9625% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg22 {
+    0.0000% { opacity: 0 }
+    95.9605% { opacity: 0 }
+    95.9615% { opacity: 1 }
+    96.6346% { opacity: 1 }
+    96.6356% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg23 {
+    0.0000% { opacity: 0 }
+    96.6336% { opacity: 0 }
+    96.6346% { opacity: 1 }
+    97.3077% { opacity: 1 }
+    97.3087% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg24 {
+    0.0000% { opacity: 0 }
+    97.3067% { opacity: 0 }
+    97.3077% { opacity: 1 }
+    97.9808% { opacity: 1 }
+    97.9818% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg25 {
+    0.0000% { opacity: 0 }
+    97.9798% { opacity: 0 }
+    97.9808% { opacity: 1 }
+    98.6538% { opacity: 1 }
+    98.6548% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg26 {
+    0.0000% { opacity: 0 }
+    98.6528% { opacity: 0 }
+    98.6538% { opacity: 1 }
+    99.3269% { opacity: 1 }
+    99.3279% { opacity: 0 }
+    100.0000% { opacity: 0 }
+  }
+  @keyframes sg27 {
+    0.0000% { opacity: 0 }
+    99.3259% { opacity: 0 }
+    99.3269% { opacity: 1 }
+    100.0000% { opacity: 1 }
+  }
+  /* Reduced motion: hold painting 1, sharp. */
+  @media (prefers-reduced-motion: reduce) { .sg { animation: none } }
+  </style>
+  <defs>
+    <g id="fr0_full">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:3f0841a3]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr0_l2">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:35bea1ac]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr0_l3">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:e7485adf]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr0_l4">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:bb1b78ee]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr1_full">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:c0aa7ac0]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr1_l2">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:6649a143]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr1_l3">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:c3242fe4]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr1_l4">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:714ad854]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr2_full">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:bd869d57]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr2_l2">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:e4c70d67]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr2_l3">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:e6e17415]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr2_l4">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:396a5dda]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr3_full">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:12ac2405]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr3_l2">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:c5b10db3]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr3_l3">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:c8c8e48e]" x="0" y="0" width="880" height="496"/>
+    </g>
+    <g id="fr3_l4">
+      <rect x="0" y="0" width="880" height="495" fill="var(--page)"/>
+      <image class="px" href="data:image/png;base64,[sha256:86d3a974]" x="0" y="0" width="880" height="496"/>
+    </g>
+  </defs>
+
+  <g transform="translate(0, 0)">
+  <use class="sg s0" href="#fr0_full"/>
+  <use class="sg s1" href="#fr0_l2"/>
+  <use class="sg s2" href="#fr0_l3"/>
+  <use class="sg s3" href="#fr0_l4"/>
+  <use class="sg s4" href="#fr1_l4"/>
+  <use class="sg s5" href="#fr1_l3"/>
+  <use class="sg s6" href="#fr1_l2"/>
+  <use class="sg s7" href="#fr1_full"/>
+  <use class="sg s8" href="#fr1_l2"/>
+  <use class="sg s9" href="#fr1_l3"/>
+  <use class="sg s10" href="#fr1_l4"/>
+  <use class="sg s11" href="#fr2_l4"/>
+  <use class="sg s12" href="#fr2_l3"/>
+  <use class="sg s13" href="#fr2_l2"/>
+  <use class="sg s14" href="#fr2_full"/>
+  <use class="sg s15" href="#fr2_l2"/>
+  <use class="sg s16" href="#fr2_l3"/>
+  <use class="sg s17" href="#fr2_l4"/>
+  <use class="sg s18" href="#fr3_l4"/>
+  <use class="sg s19" href="#fr3_l3"/>
+  <use class="sg s20" href="#fr3_l2"/>
+  <use class="sg s21" href="#fr3_full"/>
+  <use class="sg s22" href="#fr3_l2"/>
+  <use class="sg s23" href="#fr3_l3"/>
+  <use class="sg s24" href="#fr3_l4"/>
+  <use class="sg s25" href="#fr0_l4"/>
+  <use class="sg s26" href="#fr0_l3"/>
+  <use class="sg s27" href="#fr0_l2"/>
+  </g>
+</svg>

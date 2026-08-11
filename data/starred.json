@@ -1,0 +1,25 @@
+{
+  "repos": [
+    {
+      "name": "farion1231/cc-switch",
+      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "stars": "126.5k"
+    },
+    {
+      "name": "byanujpatel/content-repurposing-engine",
+      "desc": "Content Repurposing Engine (CRE) is an AI-powered platform that transforms any source content (blog, PDF,docx,URL) into platform-optimized variations in under 10 seconds.",
+      "stars": "1"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": "63.5k"
+    },
+    {
+      "name": "alexeygrigorev/ai-engineering-field-guide",
+      "desc": "Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026",
+      "stars": "5.2k"
+    }
+  ],
+  "fetchedAt": "2026-08-11T22:10:46.215Z"
+}
