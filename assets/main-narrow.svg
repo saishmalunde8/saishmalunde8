@@ -645,7 +645,7 @@
   <rect x="16" y="110" width="218" height="62" rx="10" fill="var(--surface)"/><text x="32" y="144" font-size="32.4" font-weight="700" fill="var(--fg)" text-anchor="start" class="mono">0</text><text x="32" y="164" font-size="14.9" font-weight="400" fill="var(--muted)" text-anchor="start" letter-spacing="1.2">FORKS EARNED</text>
   <rect x="246" y="110" width="218" height="62" rx="10" fill="var(--surface)"/><text x="262" y="144" font-size="32.4" font-weight="700" fill="var(--fg)" text-anchor="start" class="mono">7 yrs</text><text x="262" y="164" font-size="14.9" font-weight="400" fill="var(--muted)" text-anchor="start" letter-spacing="1.2">ON GITHUB</text>
   <rect x="16" y="184" width="448" height="34" rx="10" fill="var(--surface)"/>
-  <text x="32" y="206" font-size="16.2" font-weight="600" fill="var(--fg)" text-anchor="start">~58k lines across 7 repos</text>
-  <text x="448" y="206" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end">last pushed 1 min ago → readme-lab</text>
+  <text x="32" y="206" font-size="16.2" font-weight="600" fill="var(--fg)" text-anchor="start">~65k lines across 8 repos</text>
+  <text x="448" y="206" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end">last pushed 0 min ago → readme-lab</text>
   </g>
 </svg>
