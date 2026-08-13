@@ -3,7 +3,7 @@
     {
       "name": "farion1231/cc-switch",
       "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "stars": "126.6k"
+      "stars": "126.9k"
     },
     {
       "name": "byanujpatel/content-repurposing-engine",
@@ -13,7 +13,7 @@
     {
       "name": "santifer/career-ops",
       "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": "63.6k"
+      "stars": "63.7k"
     },
     {
       "name": "alexeygrigorev/ai-engineering-field-guide",
@@ -21,5 +21,5 @@
       "stars": "5.2k"
     }
   ],
-  "fetchedAt": "2026-08-12T07:52:30.880Z"
+  "fetchedAt": "2026-08-13T07:53:08.239Z"
 }
