@@ -3,23 +3,23 @@
     {
       "name": "practical-tutorials/project-based-learning",
       "desc": "Curated list of project-based tutorials",
-      "stars": "280.4k"
+      "stars": "280.6k"
     },
     {
       "name": "jwasham/coding-interview-university",
       "desc": "A complete computer science study plan to become a software engineer.",
-      "stars": "359.5k"
+      "stars": "359.6k"
     },
     {
       "name": "resumax/software-engineer-roadmaps",
       "desc": "14 software engineer career roadmaps with 874 curated learning resources, mapped to your own resume. Frontend, backend, DevOps, cloud, mobile, data, ML, security, and more. Updated for 2026.",
-      "stars": "39"
+      "stars": "41"
     },
     {
       "name": "farion1231/cc-switch",
       "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "stars": "128.9k"
+      "stars": "129.1k"
     }
   ],
-  "fetchedAt": "2026-08-23T07:01:14.184Z"
+  "fetchedAt": "2026-08-24T07:20:30.812Z"
 }
