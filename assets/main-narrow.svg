@@ -610,10 +610,10 @@
   </g>
   <g transform="translate(0, 88)">
   <text x="16" y="20" font-size="14.9" font-weight="700" fill="var(--muted)" text-anchor="start" letter-spacing="2.5">RECENTLY STARRED</text>
-  <rect x="16" y="36" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="59" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">practical-tutorials/project-ba…</text><text x="32" y="76" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">Curated list of project-based tutor…</text><text x="448" y="67" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 282.1k</text>
+  <rect x="16" y="36" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="59" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">practical-tutorials/project-ba…</text><text x="32" y="76" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">Curated list of project-based tutor…</text><text x="448" y="67" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 282.3k</text>
   <rect x="16" y="90" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="113" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">jwasham/coding-interview-unive…</text><text x="32" y="130" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">A complete computer science study p…</text><text x="448" y="121" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 360.4k</text>
   <rect x="16" y="144" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="167" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">resumax/software-engineer-road…</text><text x="32" y="184" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">14 software engineer career roadmap…</text><text x="448" y="175" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 51</text>
-  <rect x="16" y="198" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="221" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">farion1231/cc-switch</text><text x="32" y="238" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">A cross-platform desktop All-in-One…</text><text x="448" y="229" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 131.1k</text>
+  <rect x="16" y="198" width="448" height="44" rx="10" fill="var(--surface)"/><text x="32" y="221" font-size="18.9" font-weight="600" fill="var(--accent2)" text-anchor="start">farion1231/cc-switch</text><text x="32" y="238" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="start">A cross-platform desktop All-in-One…</text><text x="448" y="229" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end" class="mono">★ 131.3k</text>
   </g>
   <g transform="translate(0, 351)">
   <text x="16" y="20" font-size="14.9" font-weight="700" fill="var(--muted)" text-anchor="start" letter-spacing="2.5">STACK</text>
@@ -646,6 +646,6 @@
   <rect x="246" y="110" width="218" height="62" rx="10" fill="var(--surface)"/><text x="262" y="144" font-size="32.4" font-weight="700" fill="var(--fg)" text-anchor="start" class="mono">7 yrs</text><text x="262" y="164" font-size="14.9" font-weight="400" fill="var(--muted)" text-anchor="start" letter-spacing="1.2">ON GITHUB</text>
   <rect x="16" y="184" width="448" height="34" rx="10" fill="var(--surface)"/>
   <text x="32" y="206" font-size="16.2" font-weight="600" fill="var(--fg)" text-anchor="start">~59k lines across 7 repos</text>
-  <text x="448" y="206" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end">last pushed 23 hours ago → saishmalunde8</text>
+  <text x="448" y="206" font-size="16.2" font-weight="400" fill="var(--muted)" text-anchor="end">last pushed 1 day ago → saishmalunde8</text>
   </g>
 </svg>
