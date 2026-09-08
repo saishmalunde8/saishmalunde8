@@ -1,25 +1,25 @@
 {
   "repos": [
     {
+      "name": "fffaraz/awesome-cpp",
+      "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+      "stars": "73.2k"
+    },
+    {
+      "name": "SaschaWillems/Vulkan",
+      "desc": "C++ examples for the Vulkan graphics API",
+      "stars": "12.1k"
+    },
+    {
       "name": "practical-tutorials/project-based-learning",
       "desc": "Curated list of project-based tutorials",
-      "stars": "282.4k"
+      "stars": "282.6k"
     },
     {
       "name": "jwasham/coding-interview-university",
       "desc": "A complete computer science study plan to become a software engineer.",
-      "stars": "360.5k"
-    },
-    {
-      "name": "resumax/software-engineer-roadmaps",
-      "desc": "14 software engineer career roadmaps with 874 curated learning resources, mapped to your own resume. Frontend, backend, DevOps, cloud, mobile, data, ML, security, and more. Updated for 2026.",
-      "stars": "51"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "stars": "131.5k"
+      "stars": "360.6k"
     }
   ],
-  "fetchedAt": "2026-09-07T12:32:15.863Z"
+  "fetchedAt": "2026-09-08T11:18:54.298Z"
 }
