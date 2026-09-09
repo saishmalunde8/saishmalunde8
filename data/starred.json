@@ -1,25 +1,25 @@
 {
   "repos": [
     {
+      "name": "serhii-londar/open-source-mac-os-apps",
+      "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+      "stars": "50.3k"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "stars": "113.4k"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "121.8k"
+    },
+    {
       "name": "fffaraz/awesome-cpp",
       "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
       "stars": "73.2k"
-    },
-    {
-      "name": "SaschaWillems/Vulkan",
-      "desc": "C++ examples for the Vulkan graphics API",
-      "stars": "12.1k"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "desc": "Curated list of project-based tutorials",
-      "stars": "282.6k"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "desc": "A complete computer science study plan to become a software engineer.",
-      "stars": "360.6k"
     }
   ],
-  "fetchedAt": "2026-09-08T11:18:54.298Z"
+  "fetchedAt": "2026-09-09T11:23:14.480Z"
 }
