@@ -8,12 +8,12 @@
     {
       "name": "jaywcjlove/awesome-mac",
       "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "stars": "114.1k"
+      "stars": "114.2k"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "124.6k"
+      "stars": "124.8k"
     },
     {
       "name": "fffaraz/awesome-cpp",
@@ -21,5 +21,5 @@
       "stars": "73.4k"
     }
   ],
-  "fetchedAt": "2026-09-19T10:58:32.768Z"
+  "fetchedAt": "2026-09-20T11:23:17.812Z"
 }
