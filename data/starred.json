@@ -1,25 +1,25 @@
 {
   "repos": [
     {
-      "name": "serhii-londar/open-source-mac-os-apps",
-      "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
-      "stars": "50.6k"
+      "name": "AetherLabsAI/RSIAgent",
+      "desc": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
+      "stars": "427"
     },
     {
-      "name": "jaywcjlove/awesome-mac",
-      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "stars": "114.8k"
+      "name": "OpenByteInc/QuantDinger",
+      "desc": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement.",
+      "stars": "12.2k"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "125.6k"
+      "name": "YaoApp/yao",
+      "desc": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
+      "stars": "8k"
     },
     {
-      "name": "fffaraz/awesome-cpp",
-      "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
-      "stars": "73.5k"
+      "name": "logicrw/awesome-jev-projects",
+      "desc": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+      "stars": "542"
     }
   ],
-  "fetchedAt": "2026-09-25T11:50:26.569Z"
+  "fetchedAt": "2026-09-26T11:24:27.962Z"
 }
