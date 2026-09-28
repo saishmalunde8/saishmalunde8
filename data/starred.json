@@ -3,12 +3,12 @@
     {
       "name": "AetherLabsAI/RSIAgent",
       "desc": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "stars": "432"
+      "stars": "441"
     },
     {
       "name": "OpenByteInc/QuantDinger",
       "desc": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement.",
-      "stars": "12.2k"
+      "stars": "12.3k"
     },
     {
       "name": "YaoApp/yao",
@@ -18,8 +18,8 @@
     {
       "name": "logicrw/awesome-jev-projects",
       "desc": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "stars": "572"
+      "stars": "597"
     }
   ],
-  "fetchedAt": "2026-09-27T12:01:53.733Z"
+  "fetchedAt": "2026-09-28T13:54:02.278Z"
 }
