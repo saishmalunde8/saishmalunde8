@@ -3,7 +3,7 @@
     {
       "name": "AetherLabsAI/RSIAgent",
       "desc": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "stars": "462"
+      "stars": "464"
     },
     {
       "name": "OpenByteInc/QuantDinger",
@@ -18,8 +18,8 @@
     {
       "name": "logicrw/awesome-jev-projects",
       "desc": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "stars": "655"
+      "stars": "659"
     }
   ],
-  "fetchedAt": "2026-10-05T14:37:27.136Z"
+  "fetchedAt": "2026-10-06T13:17:55.191Z"
 }
