@@ -3,7 +3,7 @@
     {
       "name": "AetherLabsAI/RSIAgent",
       "desc": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "stars": "506"
+      "stars": "520"
     },
     {
       "name": "OpenByteInc/QuantDinger",
@@ -21,5 +21,5 @@
       "stars": "682"
     }
   ],
-  "fetchedAt": "2026-10-12T15:24:22.867Z"
+  "fetchedAt": "2026-10-13T14:11:06.576Z"
 }
