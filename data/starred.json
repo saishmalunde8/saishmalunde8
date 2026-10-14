@@ -1,25 +1,25 @@
 {
   "repos": [
     {
-      "name": "AetherLabsAI/RSIAgent",
-      "desc": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.",
-      "stars": "520"
+      "name": "maziyarpanahi/openmed",
+      "desc": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
+      "stars": "5.7k"
     },
     {
-      "name": "OpenByteInc/QuantDinger",
-      "desc": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement.",
-      "stars": "12.7k"
+      "name": "TheVicky1/Pact_OS",
+      "desc": "Personal Productivity & Accountability OS -Turn Intent Into Discipline with server-authoritative commitments, time-blocked planning, and proof-of-work verification.",
+      "stars": "28"
     },
     {
-      "name": "YaoApp/yao",
-      "desc": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
-      "stars": "8.1k"
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "64.2k"
     },
     {
-      "name": "logicrw/awesome-jev-projects",
-      "desc": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-      "stars": "682"
+      "name": "poteto/hiring-without-whiteboards",
+      "desc": "⭐️  Companies that don't have a broken hiring process",
+      "stars": "52.7k"
     }
   ],
-  "fetchedAt": "2026-10-13T14:11:06.576Z"
+  "fetchedAt": "2026-10-14T11:51:17.980Z"
 }
