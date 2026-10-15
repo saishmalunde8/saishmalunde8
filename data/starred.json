@@ -13,7 +13,7 @@
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "64.2k"
+      "stars": "64.4k"
     },
     {
       "name": "poteto/hiring-without-whiteboards",
@@ -21,5 +21,5 @@
       "stars": "52.7k"
     }
   ],
-  "fetchedAt": "2026-10-14T11:51:17.980Z"
+  "fetchedAt": "2026-10-15T11:28:11.667Z"
 }
