@@ -1,25 +1,25 @@
 {
   "repos": [
     {
+      "name": "duanyytop/agents-radar",
+      "desc": "Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.",
+      "stars": "1.1k"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": "5k"
+    },
+    {
+      "name": "earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": "115.6k"
+    },
+    {
       "name": "maziyarpanahi/openmed",
       "desc": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
       "stars": "5.7k"
-    },
-    {
-      "name": "TheVicky1/Pact_OS",
-      "desc": "Personal Productivity & Accountability OS -Turn Intent Into Discipline with server-authoritative commitments, time-blocked planning, and proof-of-work verification.",
-      "stars": "28"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "64.4k"
-    },
-    {
-      "name": "poteto/hiring-without-whiteboards",
-      "desc": "⭐️  Companies that don't have a broken hiring process",
-      "stars": "52.7k"
     }
   ],
-  "fetchedAt": "2026-10-15T11:28:11.667Z"
+  "fetchedAt": "2026-10-16T11:23:42.655Z"
 }
