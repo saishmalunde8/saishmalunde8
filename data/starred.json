@@ -13,7 +13,7 @@
     {
       "name": "earendil-works/pi",
       "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": "115.6k"
+      "stars": "115.8k"
     },
     {
       "name": "maziyarpanahi/openmed",
@@ -21,5 +21,5 @@
       "stars": "5.7k"
     }
   ],
-  "fetchedAt": "2026-10-16T11:23:42.655Z"
+  "fetchedAt": "2026-10-17T10:43:26.672Z"
 }
