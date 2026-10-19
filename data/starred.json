@@ -1,25 +1,25 @@
 {
   "repos": [
     {
-      "name": "pudeesht/trackmylife",
-      "desc": "",
-      "stars": "4"
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": "58k"
     },
     {
-      "name": "duanyytop/agents-radar",
-      "desc": "Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.",
-      "stars": "1.1k"
+      "name": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "stars": "67.3k"
     },
     {
-      "name": "milind-soni/OpenMausBot",
-      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "stars": "5.1k"
+      "name": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "33.3k"
     },
     {
-      "name": "earendil-works/pi",
-      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": "116k"
+      "name": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "55.5k"
     }
   ],
-  "fetchedAt": "2026-10-18T11:03:51.989Z"
+  "fetchedAt": "2026-10-19T13:14:06.675Z"
 }
