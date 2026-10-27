@@ -3,23 +3,23 @@
     {
       "name": "jamiepine/voicebox",
       "desc": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": "58.6k"
+      "stars": "58.7k"
     },
     {
       "name": "heygen-com/hyperframes",
       "desc": "Write HTML. Render video. Built for agents.",
-      "stars": "72.7k"
+      "stars": "73.5k"
     },
     {
       "name": "storytold/artcraft",
       "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": "36.8k"
+      "stars": "37.1k"
     },
     {
       "name": "ai-job-search-dev/ai-job-search",
       "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": "66.1k"
+      "stars": "66.6k"
     }
   ],
-  "fetchedAt": "2026-10-26T13:01:40.251Z"
+  "fetchedAt": "2026-10-27T12:10:57.961Z"
 }
