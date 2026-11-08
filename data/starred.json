@@ -1,25 +1,25 @@
 {
   "repos": [
     {
-      "name": "oc8-ai/oc8",
-      "desc": "Open-source AI business orchestration platform for running governed AI agents across ERP, CRM, Microsoft 365 and other business systems.",
-      "stars": "131"
+      "name": "PostOwl/postowl",
+      "desc": "Create a personal website for your blog, journal and sending letters to friends.",
+      "stars": "106"
     },
     {
-      "name": "torinmb/mediapipe-touchdesigner",
-      "desc": "GPU Accelerated MediaPipe Plugin for TouchDesigner",
-      "stars": "2.9k"
+      "name": "papers-we-love/papers-we-love",
+      "desc": "Papers from the computer science community to read and discuss.",
+      "stars": "111.3k"
     },
     {
-      "name": "webadderallorg/Recordly",
-      "desc": "Create polished demo videos without editing skills. Mac/Windows/Linux",
-      "stars": "36.2k"
+      "name": "piotrkulpinski/open-source-alternatives",
+      "desc": "Curated list of open source alternatives to proprietary software.",
+      "stars": "6.9k"
     },
     {
-      "name": "LingDong-/shan-shui-inf",
-      "desc": "Procedurally generated Chinese landscape painting.",
-      "stars": "6.4k"
+      "name": "WillReynolds5/AutoGPT-Social",
+      "desc": "Autonomous Instagram bot which creates and optimizes posts to maximize engagement",
+      "stars": "344"
     }
   ],
-  "fetchedAt": "2026-11-06T14:15:41.131Z"
+  "fetchedAt": "2026-11-08T13:24:05.633Z"
 }
