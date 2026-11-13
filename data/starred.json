@@ -1,6 +1,11 @@
 {
   "repos": [
     {
+      "name": "arkadevbanerjee/register",
+      "desc": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "stars": "1"
+    },
+    {
       "name": "PostOwl/postowl",
       "desc": "Create a personal website for your blog, journal and sending letters to friends.",
       "stars": "106"
@@ -8,18 +13,13 @@
     {
       "name": "papers-we-love/papers-we-love",
       "desc": "Papers from the computer science community to read and discuss.",
-      "stars": "111.4k"
+      "stars": "111.5k"
     },
     {
       "name": "piotrkulpinski/open-source-alternatives",
       "desc": "Curated list of open source alternatives to proprietary software.",
       "stars": "6.9k"
-    },
-    {
-      "name": "WillReynolds5/AutoGPT-Social",
-      "desc": "Autonomous Instagram bot which creates and optimizes posts to maximize engagement",
-      "stars": "344"
     }
   ],
-  "fetchedAt": "2026-11-12T15:14:07.934Z"
+  "fetchedAt": "2026-11-13T14:33:57.519Z"
 }
